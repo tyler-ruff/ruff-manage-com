@@ -1,15 +1,8 @@
-All contributions, including merge requests, feature requests, ideas, design tweaks, etc. are welcome. 
-I welcome all input, from sharing your own implementations of code to general thoughts and ideas. Just open a new issue!
+## Contributing	
 
-## Feature Requests
+Hey, there! 👋 Any and all contributions are welcome.	
 
-Feature requests are always welcome! If Jekyll can do it and if the theme's design would work well with it, then I would love to add it. Of course, 
-code submission via a merge/pull request is great, but not necessary.
-
-## Bug Reports
-
-If you encounter any issues with these themes on any devices, please submit a bug report with the device type and a detailed description of what 
-the issue that you're encountering is.
-<br /><br />
-
-*Thank you*
+To lend a helping hand:	
+* [Fork the repository](https://help.github.com/articles/fork-a-repo/)	
+* Make your desired changes	
+* [Create a pull request](https://help.github.com/articles/creating-a-pull-request/)

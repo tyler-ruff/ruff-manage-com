@@ -1,6 +1,6 @@
 ---
-title: "Documentation"
-description: "Learn how to use Congo and its features."
+title: "Investor Relations"
+description: "Ruff Management Inc."
 
 cascade:
   showDate: false

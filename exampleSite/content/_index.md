@@ -1,13 +1,13 @@
 ---
-title: "Welcome to Congo! :tada:"
-description: "This is a demo of the Congo theme for Hugo."
+title: "Ruff Management Inc."
+description: "Management company based out of South Jersey."
 ---
 
 {{< lead >}}
-A powerful, lightweight theme for Hugo built with Tailwind CSS.
+A better way forward.
 {{< /lead >}}
 
-This is a demo site built entirely using Congo. It also contains a complete set of [theme documentation]({{< ref "docs" >}}). Congo is flexible and is great for both static page-based content (like this demo) or a traditional blog with a feed of recent posts.
+Ruff Management Inc. is a C-CORP founded by the executives at [Blazed Labs LLC](https://blazedlabs.com/) and [RTM Transportation LLC](https://rtmtransit.com/). Our principal goal is to maintain honesty. transparency, and stability in our business practice.
 
 <div class="flex px-4 py-2 mb-8 text-base rounded-md bg-primary-100 dark:bg-primary-900">
   <span class="flex items-center ltr:pr-3 rtl:pl-3 text-primary-400">

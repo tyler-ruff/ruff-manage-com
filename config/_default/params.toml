@@ -12,6 +12,8 @@ autoSwitchAppearance = true
 enableSearch = false
 enableCodeCopy = false
 
+logo = "Ruff"
+
 # mainSections = ["section1", "section2"]
 # robots = ""
 

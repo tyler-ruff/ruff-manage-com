@@ -61,7 +61,3 @@ body::-webkit-scrollbar-thumb:hover{
     background:rgba(0, 0, 0, 0.6);
     color:#fff;
 }
-
-.is-active{
-    text-decoration: underline;
-}

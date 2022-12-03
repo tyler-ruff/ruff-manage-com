@@ -120,22 +120,22 @@ function companies(){
                         Blazed One
                     </h3>
                     <div class="space-y-1 leading-tight">
-                        <p>&bull; Cloud storage provider</p>
+                        <p>&bull; Asset Sharing</p>
                         <p>&bull; Social network</p>
-                        <p>&bull; BLZ-SH Terminal</p>
+                        <p>&bull; Project Management</p>
                     </div>
                 </a>
-                <a href="https://blazed.watch/" target="_blank" class="flex flex-col items-center p-4 group">
+                <a href="https://blazed.world/" target="_blank" class="flex flex-col items-center p-4 group">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="w-8 h-8 dark:text-violet-400">
                         <path fill-rule="evenodd" d="M11.3 1.046A1 1 0 0112 2v5h4a1 1 0 01.82 1.573l-7 10A1 1 0 018 18v-5H4a1 1 0 01-.82-1.573l7-10a1 1 0 011.12-.38z" clip-rule="evenodd"></path>
                     </svg>
                     <h3 class="my-3 text-3xl font-semibold group-hover:underline">
-                        Blazed Watch
+                        Blazed World
                     </h3>
                     <div class="space-y-1 leading-tight">
-                        <p>&bull; Video sharing site</p>
-                        <p>&bull; Tools for film-makers</p>
-                        <p>&bull; Community discussion</p>
+                        <p>&bull; Virtual world</p>
+                        <p>&bull; Estate planning</p>
+                        <p>&bull; Build your dream</p>
                     </div>
                 </a>
                 <a href="https://blazed.city/" target="_blank" class="flex flex-col items-center p-4 group">
@@ -159,22 +159,22 @@ function companies(){
                         Blazed Software
                     </h3>
                     <div class="space-y-1 leading-tight">
-                        <p>&bull; Software sharing</p>
+                        <p>&bull; Our software</p>
                         <p>&bull; Community governance</p>
-                        <p>&bull; SDK sharing</p>
+                        <p>&bull; Open source solutions</p>
                     </div>
                 </a>
-                <a href="https://blazed.tel/" target="_blank" class="flex flex-col items-center p-4 group">
+                <a href="https://blazed.dev/" target="_blank" class="flex flex-col items-center p-4 group">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="w-8 h-8 dark:text-violet-400">
                         <path fill-rule="evenodd" d="M11.3 1.046A1 1 0 0112 2v5h4a1 1 0 01.82 1.573l-7 10A1 1 0 018 18v-5H4a1 1 0 01-.82-1.573l7-10a1 1 0 011.12-.38z" clip-rule="evenodd"></path>
                     </svg>
                     <h3 class="my-3 text-3xl font-semibold group-hover:underline">
-                        Blazed Telecom
+                        Blazed Development
                     </h3>
                     <div class="space-y-1 leading-tight">
-                        <p>&bull; Calling</p>
-                        <p>&bull; SMS</p>
-                        <p>&bull; Fax</p>
+                        <p>&bull; Distributed development</p>
+                        <p>&bull; Cloud contribution</p>
+                        <p>&bull; Open source</p>
                     </div>
                 </a>
                 <a href="https://blazed.space" target="_blank" class="flex flex-col items-center p-4 group">
@@ -185,9 +185,9 @@ function companies(){
                         Blazed Space
                     </h3>
                     <div class="space-y-1 leading-tight">
-                        <p>&bull; Art and media</p>
-                        <p>&bull; Simplistic</p>
-                        <p>&bull; Just for fun</p>
+                        <p>&bull; Our products</p>
+                        <p>&bull; Our services</p>
+                        <p>&bull; Blazed Labs</p>
                     </div>
                 </a>
             </div>
@@ -204,8 +204,8 @@ function companies(){
               Publishing and networking services to traverse time, space, and any other physical medium.
             </p>
             <div class="flex flex-wrap justify-center">
-              <a href="https://blazed.systems/" target="_blank" class="hover:underline px-8 py-3 m-2 text-lg font-semibold rounded dark:bg-violet-400 dark:text-gray-900">
-                Systems Admin
+              <a href="https://blazed.tel/" target="_blank" class="hover:underline px-8 py-3 m-2 text-lg font-semibold rounded dark:bg-violet-400 dark:text-gray-900">
+                Telecom
               </a>
               <a href="https://blazed.xyz/" target="_blank" class="px-8 py-3 m-2 hover:bg-gray-300 text-lg border rounded-md dark:text-gray-50 dark:border-gray-700">
                 Publishing
@@ -216,7 +216,7 @@ function companies(){
         <hr />
         <div class="bg-white dark:bg-gray-900">
           <div class="container flex flex-col items-center px-4 py-12 mx-auto text-center">
-              <h2 class="text-3xl font-semibold tracking-tight text-gray-700 sm:text-4xl dark:text-white">
+              <h2 class="text-3xl font-semibold tracking-tight text-gray-700 sm:text-4xl">
                   Need some software built? <br> We do that too.
               </h2>
               

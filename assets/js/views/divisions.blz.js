@@ -154,8 +154,7 @@ function properties(){
             Investment Opportunity
         </h3>
         <p class="py-2">
-            Open Collective: <a href="https://opencollective.com/ruff-management-inc" class="hover:underline">Click Here</a><br />
-            EquityNet: <a href="https://www.equitynet.com/c/ruff-management-inc" class="hover:underline">Click Here</a>
+            Open Collective: <a href="https://opencollective.com/ruff-management-inc" class="hover:underline">Click Here</a>
         </p>
     </div>
 `;
@@ -222,8 +221,8 @@ function data(){
         </p>
         <hr />
         <p class="py-2">
-            Privacy Policy: <a href="https://blazedlabs.com/privacy" class="hover:underline">Click Here</a><br />
-            DMCA (Copyright) Policy: <a href="https://blazedlabs.com/dmca" class="hover:underline">Click Here</a>
+            Privacy Policy: <a target="_blank" href="https://github.com/ruff-org/ruff-org/blob/main/policy/PRIVACY.md" class="hover:underline">Click Here</a><br />
+            DMCA (Copyright) Policy: <a target="_blank" href="https://github.com/ruff-org/ruff-org/blob/main/policy/DMCA.md" class="hover:underline">Click Here</a>
         </p>
     </div>`;
 }

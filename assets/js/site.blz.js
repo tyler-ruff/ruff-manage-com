@@ -225,6 +225,7 @@ function build_footer(config){
     const logoInnermostWrapper = f('div');
     logoInnermostWrapper.classList.add('flex', 'justify-center', 'text-teal-300', 'lg:justify-start'); 
     const logo = f('img');
+    logo.classList.add('rounded-full');
     logo.src = config.icon + "?w=50&h=50";
 
     logoInnermostWrapper.appendChild(logo);

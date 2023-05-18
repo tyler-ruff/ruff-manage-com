@@ -48,7 +48,7 @@ function companies(){
                     Concrete Games LLC
                 </h2>
                 <p class="flex-1 mb-4 text-base leading-relaxed dark:text-gray-400">
-                    We are a game development studio who crafts interactive experiencs for serious gamers.
+                    We are a game development studio who crafts interactive experiences for serious gamers.
                 </p>
                 <a class="mb-4 hover:underline" href="tel:+18882008103">
                     +1 (888) 200-8103

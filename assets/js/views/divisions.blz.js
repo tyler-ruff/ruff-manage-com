@@ -48,7 +48,9 @@ function vending(){
             </li>
         
             <li>
-                <a class="block transition-colors hover:text-gray-700" href="#"> Divisions </a>
+                <a class="block transition-colors hover:text-gray-700" href="https://www.ruff-manage.com/about.html#Divisions">
+                 Divisions 
+                </a>
             </li>
         
             <li>
@@ -111,7 +113,9 @@ function properties(){
             </li>
         
             <li>
-                <a class="block transition-colors hover:text-gray-700" href="#"> Divisions </a>
+                <a class="block transition-colors hover:text-gray-700" href="https://www.ruff-manage.com/about.html#Divisions"> 
+                    Divisions 
+                </a>
             </li>
         
             <li>
@@ -182,7 +186,9 @@ function data(){
             </li>
         
             <li>
-                <a class="block transition-colors hover:text-gray-700" href="#"> Divisions </a>
+                <a class="block transition-colors hover:text-gray-700" href="https://www.ruff-manage.com/about.html#Divisions"> 
+                    Divisions 
+                </a>
             </li>
         
             <li>

@@ -166,73 +166,75 @@ function about(){
         </div>
     </div>
     <hr />
-    <h2 class="text-center bg-gray-100 text-2xl font-bold pt-10">
-      Divisions
-    </h2>
-    <div class="h-screen flex items-center justify-center bg-gray-100">
-      <div class="grid grid-cols-1 md:grid-cols-12 max-w-5xl gap-4">
-        <!-- Card 1 -->
-        <div class="grid col-span-4 relative">
-          <a class="group shadow-lg hover:shadow-2xl duration-200 delay-75 w-full bg-white rounded-sm py-6 pr-6 pl-9" href="https://www.ruff-manage.com/divisions/index.html?p=vending">
-    
-            <!-- Title -->
-            <p class="text-2xl font-bold text-gray-500 group-hover:text-gray-700"> 
-              Vending 
-            </p>
-    
-            <!-- Description -->
-            <p class="text-sm font-semibold text-gray-500 group-hover:text-gray-700 mt-2 leading-6"> 
-              We manage vending machines for dry snacks and cold drinks. We've developed an awesome asset management solution to help us track our machines.
-            </p>
-    
-            <!-- Color -->
-            <div class="bg-blue-400 group-hover:bg-blue-600 h-full w-4 absolute top-0 left-0"> </div>
-    
-          </a>
+    <div id="Divisions">
+        <h2 class="text-center bg-gray-100 text-2xl font-bold pt-10">
+            Divisions
+        </h2>
+        <div class="h-screen flex items-center justify-center bg-gray-100">
+            <div class="grid grid-cols-1 md:grid-cols-12 max-w-5xl gap-4">
+                <!-- Card 1 -->
+                <div class="grid col-span-4 relative">
+                <a class="group shadow-lg hover:shadow-2xl duration-200 delay-75 w-full bg-white rounded-sm py-6 pr-6 pl-9" href="https://www.ruff-manage.com/divisions/index.html?p=vending">
+            
+                    <!-- Title -->
+                    <p class="text-2xl font-bold text-gray-500 group-hover:text-gray-700"> 
+                    Vending 
+                    </p>
+            
+                    <!-- Description -->
+                    <p class="text-sm font-semibold text-gray-500 group-hover:text-gray-700 mt-2 leading-6"> 
+                    We manage vending machines for dry snacks and cold drinks. We've developed an awesome asset management solution to help us track our machines.
+                    </p>
+            
+                    <!-- Color -->
+                    <div class="bg-blue-400 group-hover:bg-blue-600 h-full w-4 absolute top-0 left-0"> </div>
+            
+                </a>
+                </div>
+            
+                <!-- Card 2 -->
+                <div class="grid col-span-4 relative">
+                <a class="group shadow-lg hover:shadow-2xl duration-200 delay-75 w-full bg-white rounded-sm py-6 pr-6 pl-9" href="https://www.ruff-manage.com/divisions/index.html?p=properties">
+            
+                    <!-- Title -->
+                    <p class="text-2xl font-bold text-gray-500 group-hover:text-gray-700"> 
+                    Properties 
+                    </p>
+            
+                    <!-- Description -->
+                    <p class="text-sm font-semibold text-gray-500 group-hover:text-gray-700 mt-2 leading-6"> 
+                    We manage residential, commercial, and mixed-use properties. Our motto is quality conditions and fair policy. We pride ourselves in our sites and their cleanliness and renters' satisfaction. 
+                    </p>
+            
+                    <!-- Color -->
+                    <div class="bg-blue-400 group-hover:bg-blue-600 h-full w-4 absolute top-0 left-0"> </div>
+            
+                </a>
+                </div>
+            
+                <!-- Card 3 -->
+                <div class="grid col-span-4 relative">
+                    <a class="group shadow-lg hover:shadow-2xl duration-200 delay-75 w-full bg-white rounded-sm py-6 pr-6 pl-9" href="https://www.ruff-manage.com/divisions/index.html?p=data">
+                
+                        <!-- Title -->
+                        <p class="text-2xl font-bold text-gray-500 group-hover:text-gray-700"> 
+                        Data  
+                        </p>
+                
+                        <!-- Description -->
+                        <p class="text-sm font-semibold text-gray-500 group-hover:text-gray-700 mt-2 leading-6"> 
+                        From data security to data governance, we manage all aspects of data. Together with Blazed Labs, we also store data. We always store data securely to prevent fraud and theft.
+                        </p>
+                
+                        <!-- Color -->
+                        <div class="bg-blue-400 group-hover:bg-blue-600 h-full w-4 absolute top-0 left-0"> </div>
+                
+                    </a>
+                </div>
+            
+            </div>
+        
         </div>
-    
-        <!-- Card 2 -->
-        <div class="grid col-span-4 relative">
-          <a class="group shadow-lg hover:shadow-2xl duration-200 delay-75 w-full bg-white rounded-sm py-6 pr-6 pl-9" href="https://www.ruff-manage.com/divisions/index.html?p=properties">
-    
-            <!-- Title -->
-            <p class="text-2xl font-bold text-gray-500 group-hover:text-gray-700"> 
-              Properties 
-            </p>
-    
-            <!-- Description -->
-            <p class="text-sm font-semibold text-gray-500 group-hover:text-gray-700 mt-2 leading-6"> 
-              We manage residential, commercial, and mixed-use properties. Our motto is quality conditions and fair policy. We pride ourselves in our sites and their cleanliness and renters' satisfaction. 
-            </p>
-    
-            <!-- Color -->
-            <div class="bg-blue-400 group-hover:bg-blue-600 h-full w-4 absolute top-0 left-0"> </div>
-    
-          </a>
-        </div>
-    
-        <!-- Card 3 -->
-        <div class="grid col-span-4 relative">
-          <a class="group shadow-lg hover:shadow-2xl duration-200 delay-75 w-full bg-white rounded-sm py-6 pr-6 pl-9" href="https://www.ruff-manage.com/divisions/index.html?p=data">
-    
-            <!-- Title -->
-            <p class="text-2xl font-bold text-gray-500 group-hover:text-gray-700"> 
-              Data  
-            </p>
-    
-            <!-- Description -->
-            <p class="text-sm font-semibold text-gray-500 group-hover:text-gray-700 mt-2 leading-6"> 
-              From data security to data governance, we manage all aspects of data. Together with Blazed Labs, we also store data. We always store data securely to prevent fraud and theft.
-            </p>
-    
-            <!-- Color -->
-            <div class="bg-blue-400 group-hover:bg-blue-600 h-full w-4 absolute top-0 left-0"> </div>
-    
-          </a>
-        </div>
-    
-      </div>
-    
     </div>
     <hr />
     <div class="bg-gray-50 dark:bg-gray-800 dark:text-gray-100">

@@ -18,8 +18,8 @@ const resolvedImageWithDomain = new URL(
 const { title } = Astro.props;
 
 const makeTitle = title
-  ? title + " | " + "Astrolize"
-  : "Astrolize - Starter Template for Astro with Tailwind CSS";
+  ? title + " | " + "Ruff Management"
+  : "RMI Inc. - The Ruff Management inc. company.";
 ---
 
 <!DOCTYPE html>
@@ -27,7 +27,7 @@ const makeTitle = title
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.ico" />
     <meta name="generator" content={Astro.generator} />
     <script defer data-domain="astrolize.fabform.io" src="https://plausible.io/js/script.js"></script>
     <!-- <link rel="preload" as="image" href={src} alt="Hero" /> -->
@@ -36,19 +36,19 @@ const makeTitle = title
       description="Astrolize is a starter website template for Astro build with TailwindCSS."
       canonical={canonicalURL}
       twitter={{
-        creator: "@fabform",
-        site: "@fabform",
+        creator: "@BlazedLabs",
+        site: "@RuffManage",
         card: "summary_large_image",
       }}
       openGraph={{
         basic: {
           url: canonicalURL,
           type: "website",
-          title: `Astrolize - Starter Template for Astro`,
+          title: `RMI Inc. - The Ruff Management inc. company.`,
           image: resolvedImageWithDomain,
         },
         image: {
-          alt: "Astrolize Homepage Screenshot",
+          alt: "RMI Website Screenshot",
         },
       }}
     />

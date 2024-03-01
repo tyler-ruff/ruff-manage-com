@@ -5,7 +5,7 @@ import sitemap from "@astrojs/sitemap";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://fabform.io",
+  site: "https://ruff-manage.com",
   server: { host: '0.0.0.0'},
   integrations: [tailwind(), mdx(), sitemap()],
 });

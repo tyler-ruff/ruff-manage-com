@@ -7,5 +7,9 @@ import sitemap from "@astrojs/sitemap";
 export default defineConfig({
   site: "https://ruff-manage.com",
   server: { host: '0.0.0.0'},
-  integrations: [tailwind(), mdx(), sitemap()],
+  integrations: [
+    tailwind(), 
+    mdx(), 
+    sitemap()
+  ],
 });

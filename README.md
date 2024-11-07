@@ -1,13 +1,10 @@
-# Astrolize - Astro SAAS Starter Website Template
+# Ruff Management Inc.
 
-Astrolize is a free starter astro website template for saas, startups, marketing websites, landing pages & blogs. Built with Astro & TailwindCSS.
+Ruff Management incorporated is a management and holdings company for [RTM](https://rtmtransit.com/) and [Blazed Labs](https://blazedlabs.com/).
 
-This Free Template is brought to you by [FabForm](https://fabform.io)
+> Made with: astrolize-astro-template
 
-Check out a DEMO of the Astrolize [Starter Template For Astro With Tailwind](https://astrolize.fabform.io)
-
-
-## Features 
+## Features
 
 * Astro v3
 * Tailwind CSS
@@ -99,4 +96,3 @@ TailwindCSS is already configured in this repo, so you can start using it withou
 Feel free to check out [Astro Docs](https://docs.astro.build) or jump into our [Discord Chat](https://web3templates.com/discord).
 
 [![Built with Astro](https://astro.badg.es/v1/built-with-astro.svg)](https://astro.build)
-# astrolize-astro-template

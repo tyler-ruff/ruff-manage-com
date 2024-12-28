@@ -56,12 +56,7 @@ export const linksFooter = [
             {
                 label: "FAQ",
                 href: "/faq"
-            },
-            {
-                label: "uShip Profile",
-                target: "_blank",
-                href: social.uship
-            },
+            }
         ]
     }
 ] as FooterItems[];

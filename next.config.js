@@ -2,7 +2,7 @@
 const nextConfig = {
     experimental: {
         serverActions: {
-            allowedOrigins: ['rtmtransit.com', '*.rtmtransit.com', 'rtmtransit-com.vercel.app'],
+            allowedOrigins: ['ruff-manage.com', '*.ruff-manage.com', 'rtmtransit-com.vercel.app'],
         },
     }
 }

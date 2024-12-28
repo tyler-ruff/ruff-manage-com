@@ -15,7 +15,7 @@ export default function Footer(){
                     <div className="flex justify-center mb-3 space-x-3 lg:justify-start">
                         <a rel="noopener noreferrer" href="/" title="Return Home" className="inline-flex hover:opacity-75">
                             <div className="flex items-center justify-center w-12 h-12 rounded-full">
-                                <img src="https://blazed.sirv.com/RTM/logo/bus-black.png" alt="Beaker" width={42} height={42} />
+                                <Icon icon="game-icons:lion" width={42} height={42} />
                             </div>
                             <span className="self-center text-2xl font-semibold">
                                 {config.name}

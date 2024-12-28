@@ -1,4 +1,5 @@
-import Image from "next/image";
+import { Icon } from "@iconify/react";
+
 import Link from "next/link";
 
 import { ILogo } from "./data";
@@ -15,7 +16,7 @@ const Logo = (props: ILogo) => {
             aria-label="Back to homepage"
             title={props.title} 
             className="flex items-center p-2 text-2xl font-bold hover:opacity-75 select-none">
-            RTM
+            <Icon icon="game-icons:lion" width={50} height={50} />
         </Link>
     );
 }

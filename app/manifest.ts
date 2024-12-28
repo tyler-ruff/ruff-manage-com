@@ -4,7 +4,7 @@ import type { MetadataRoute } from 'next';
 export default function manifest(): MetadataRoute.Manifest {
   return {
     name: config.name,
-    short_name: 'RTM',
+    short_name: 'RMI',
     description: config.description,
     start_url: '/',
     display: 'standalone',

@@ -17,8 +17,8 @@ export default function Services() {
                 Our Services
             </h1>
             <p className="pt-5 max-w-lg relative mx-auto hidden md:block">
-                RTM offers a variety of services in the logistics industry, these include: warehousing, shipping, and transportation.
-                &nbsp;<a href="/about" title="Learn more about RTM Transit" className="text-blue-500 hover:underline">Learn more...</a>
+                With Ruff Management Inc., you gain more than a service provider—you gain a partner committed to your success. 
+                &nbsp;<a href="/about" title="Learn more about Ruff Management" className="text-blue-500 hover:underline">Learn more...</a>
             </p>
         </section>
         <section className="max-w-5xl relative mx-auto mb-5 grid md:grid-cols-2 lg:grid-cols-3 py-5 px-7 space-x-2">

@@ -1,45 +1,59 @@
 
 export const servicesList = [
     {
-        title: "Cargo Distribution",
-        description: "Seamlessly move your goods with our efficient cargo distribution services. We ensure timely and accurate delivery to keep your supply chain running smoothly.",
-        url: "/services/cargo",
-        slug: "cargo",
-        icon: "mdi:truck"
+        title: "Strategic Planning",
+        description: " Crafting tailored solutions to align with your company's vision and goals.",
+        url: "/services/planning",
+        slug: "planning",
+        icon: "material-symbols:strategy"
     },
     {
-        title: "Nationwide Shipping",
-        description: "From coast to coast, we deliver your cargo with speed and reliability, ensuring your goods reach their destination safely and on schedule.",
-        url: "/services/shipping",
-        slug: "shipping",
-        icon: "mdi:mailbox-open-up"
+        title: "Administrative Support",
+        description: "From HR to finance, we handle the details so you can focus on the big picture.",
+        url: "/services/admin",
+        slug: "admin",
+        icon: "material-symbols:admin-panel-settings-rounded"
     },
     {
-        title: "Custom Freight Solutions",
-        description: "Tailored to your unique business needs, our freight solutions offer flexible options to transport goods of all sizes and requirements.",
-        url: "/services/freight",
-        slug: "freight",
-        icon: "bi:train-freight-front-fill"
+        title: "Resource Optimization",
+        description: "Streamlining processes to maximize productivity and reduce costs.",
+        url: "/services/resource",
+        slug: "resource",
+        icon: "material-symbols:file-present"
     },
     {
-        title: "Real-Time Tracking",
-        description: "Stay informed every step of the way with our advanced tracking system, providing full visibility of your shipments in real time.",
-        url: "/services/track",
-        slug: "track",
-        icon: "flowbite:tracking-solid"
+        title: "Partnership Development",
+        description: "Building and maintaining strong relationships to enhance your network and opportunities.",
+        url: "/services/partnership",
+        slug: "partnership",
+        icon: "material-symbols:partner-exchange"
     },
     {
-        title: "Car & Van Service",
-        description: "Travel comfortably and reliably with our passenger car and van services, perfect for group transportation, corporate travel, or special events.",
-        url: "https://oceancarservice.com/",
-        slug: "passenger",
-        icon: "mdi:taxi"
+        title: "Financial Oversight and Budget",
+        description: "Ruff Management Inc. provides meticulous financial management, from budgeting to forecasting. Our goal is to enhance financial health through transparent reporting, cost-saving strategies, and efficient resource allocation.",
+        url: "/services/finance",
+        slug: "finance",
+        icon: "material-symbols:attach-money"
     },
     {
-        title: "Warehousing",
-        description: "Our secure, state-of-the-art facilities offer short- and long-term storage solutions, providing the space and support you need to manage inventory efficiently.",
-        url: "/services/warehouse",
-        slug: "warehouse",
-        icon: "fa6-solid:warehouse"
-    }
+        title: "Operational Workflow",
+        description: "Our team analyzes your existing processes to identify inefficiencies and implement solutions that improve productivity. We specialize in creating workflows that save time and reduce costs.",
+        url: "/services/ops",
+        slug: "ops",
+        icon: "material-symbols:function-rounded"
+    },
+    {
+        title: "Technology Integration Services",
+        description: "Streamline your business with the latest tools and software. We specialize in selecting and implementing technology solutions that align with your operational goals, improving efficiency and communication.",
+        url: "/services/tech",
+        slug: "tech",
+        icon: "material-symbols:settop-component-rounded"
+    },
+    {
+        title: "Crisis Management and Recovery",
+        description: "Be prepared for the unexpected. Our crisis management team helps mitigate risks, manage disruptions, and develop recovery plans to ensure business continuity during challenging times.",
+        url: "/services/crisis",
+        slug: "crisis",
+        icon: "material-symbols:crisis-alert"
+    },
 ];

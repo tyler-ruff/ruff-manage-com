@@ -1,5 +1,9 @@
-import ContactCTA from "@/components/cta/contact";
-import Image from "next/image";
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: 'About Us',
+  description: 'Learn more about Ruff Management inc.'
+}
 
 export default function About() {
   return (
@@ -28,7 +32,7 @@ export default function About() {
             </div>
           </div>
         </section>
-      <section className="max-w-xl relative mx-auto py-10">
+      <section className="max-w-xl relative mx-auto py-10 px-5">
           <h1 className="text-2xl py-5">
             Welcome to Ruff Management Inc.
           </h1>
@@ -45,7 +49,7 @@ export default function About() {
           </p>
         </section>
         <hr />
-        <section className="max-w-4xl relative mx-auto grid grid-cols-2 py-10">
+        <section className="max-w-4xl relative mx-auto grid grid-cols-1 md:grid-cols-2 py-10 px-5 md:space-x-5 space-y-5 md:space-y-0">
           <div>
             <h2 className="text-xl py-5">
               Why Choose Us?

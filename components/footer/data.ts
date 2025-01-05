@@ -33,8 +33,8 @@ export const linksFooter = [
         title: "Site",
         items: [
             {
-                label: "Testimonials",
-                href: "/reviews"
+                label: "Investor Relations",
+                href: "/investors"
             },
             {
                 label: "Team",

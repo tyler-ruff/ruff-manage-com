@@ -28,19 +28,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
         priority: 0.5,
       },
       {
-        url: new URL('/reviews', url).href,
+        url: new URL('/investors', url).href,
         lastModified: new Date(),
         changeFrequency: 'weekly',
         priority: 0.5,
       },
       {
         url: new URL('/team', url).href,
-        lastModified: new Date(),
-        changeFrequency: 'weekly',
-        priority: 0.5,
-      },
-      {
-        url: new URL('/fleet', url).href,
         lastModified: new Date(),
         changeFrequency: 'weekly',
         priority: 0.5,

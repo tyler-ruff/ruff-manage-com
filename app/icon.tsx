@@ -23,7 +23,7 @@ export default function Icon() {
           color: 'gray',
         }}
       >
-        <img src="https://blazed.sirv.com/RTM/logo/rtm.png?w=45&h=45" />
+        <img src="https://blazed.sirv.com/ruff-manage.com/ruff-lion.png?w=45&h=45" />
       </div>
     ),
     {

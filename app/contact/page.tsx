@@ -59,6 +59,16 @@ export default async function Contact(){
                                 </p>
                             )
                         }
+                        <p className="flex items-center">
+                            <svg className="w-6 h-5 mr-2 text-blue-500 dark:text-gray-100" viewBox="0 0 799.89 761" xmlns="http://www.w3.org/2000/svg" width="2500" height="2378">
+                                <path d="M799.89 290.83H494.44L400.09 0l-94.64 290.83L0 290.54l247.37 179.92L152.72 761l247.37-179.63L647.16 761l-94.35-290.54z" fill="#00b67a"/>
+                                <path d="M574.04 536.24l-21.23-65.78-152.72 110.91z" fill="#005128"/>
+                            </svg>
+                            
+                            <a href="https://www.trustpilot.com/review/ruff-manage.com" target="_blank" className="ml-3 text-gray-900 hover:underline truncate w-72 dark:text-gray-400" title="Review our company">
+                                Review us on Trustpilot
+                            </a>
+                        </p>
                     </div>
                 </div>
                 <Form action={submitForm} className="flex flex-col py-6 space-y-6 md:py-0 md:px-6">

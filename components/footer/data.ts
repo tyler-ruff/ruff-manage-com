@@ -42,7 +42,7 @@ export const linksFooter = [
             },
             {
                 label: "Fleet",
-                href: "/fleet"
+                href: "https://rtmtransit.com/fleet"
             }
         ]
     },

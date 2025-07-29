@@ -74,11 +74,11 @@ export default async function Contact(){
                 <Form action={submitForm} className="flex flex-col py-6 space-y-6 md:py-0 md:px-6">
                     <label className="block">
                         <span className="mb-1">Full name</span>
-                        <input type="text" name="name" id="name" placeholder="Leroy Jenkins" className="block w-full rounded-md shadow-sm focus:ring focus:ring-opacity-75 focus:ring-emerald-600 bg-gray-100" />
+                        <input type="text" name="name" id="name" placeholder="Alexander Hamilton" className="block w-full rounded-md shadow-sm focus:ring focus:ring-opacity-75 focus:ring-emerald-600 bg-gray-100" />
                     </label>
                     <label className="block">
                         <span className="mb-1">Email address</span>
-                        <input type="email" name="email" id="email" placeholder="leroy@jenkins.com" className="block w-full rounded-md shadow-sm focus:ring focus:ring-opacity-75 focus:ring-emerald-600 bg-gray-100" />
+                        <input type="email" name="email" id="email" placeholder="alexander@example.com" className="block w-full rounded-md shadow-sm focus:ring focus:ring-opacity-75 focus:ring-emerald-600 bg-gray-100" />
                     </label>
                     <label className="block">
                         <span className="mb-1">Message</span>
